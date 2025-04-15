@@ -1,4 +1,5 @@
-## Hi there 👋
+## Welcome to my page
+I like to code stuff for fun, sometimes full-stack applications
 
 <!--
 **Colurswitch/Colurswitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
